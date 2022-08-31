@@ -1,3 +1,2 @@
-This is a script that prints the absolute path name of the current working directory.
-This is a script that displays the content of your current working directory.
-This is a script that changes the working directory to the user’s home directory.
+#!/bin/bash
+This is a script to Display current directory contents in a long format
